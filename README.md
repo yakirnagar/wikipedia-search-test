@@ -11,7 +11,7 @@ The test:
 
 ## 🖼️ Screenshot
 
-![Wikipedia Test Run](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/EXAMPLE.png)
+![Wikipedia test result](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/EXAMPLE.png)
 
 ## 📁 Project Structure
 

@@ -11,7 +11,7 @@ The test:
 
 ## 🖼️ Screenshot
 
-![Wikipedia test result](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/assets/EXAMPLE.png)
+![Screenshot][(https://user-images.githubusercontent.com/123456789/your_image_name.png)](https://github.com/yakirnagar/wikipedia-search-test/blob/main/wikipedia%20test%20result.jpg)
 
 ## 📁 Project Structure
 

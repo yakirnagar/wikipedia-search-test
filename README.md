@@ -11,7 +11,7 @@ The test:
 
 ## 🖼️ Screenshot
 
-https://github.com/yakirnagar/wikipedia-search-test/blob/main/wikipedia%20test%20result.jpg
+https://github.com/yakirnagar/wikipedia-search-test/issues/1#issue-3199492745
 
 ## 📁 Project Structure
 
